@@ -1,5 +1,5 @@
 ### temp-repo
-Hi,I'm dojohnber
+Hi
 This is my profile repository.
 <!--
 **dojohnber/dojohnber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
